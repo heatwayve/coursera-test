@@ -24,14 +24,27 @@ h1 {
         
     }
     .sections-item h2 {
+        width: auto;
         text-align: right;
         position: relative;
-        top: -10%;
+        padding: 10px;
+        border: 1px solid black;
     }
+
     .sections-item p {
         width: 90%;
         
 
+    }
+
+    #section-1 h2 {
+        background-color: violet;
+    }
+    #section-2 h2 {
+        background-color: lightblue;
+    }
+    #section-3 h2 {
+        background-color: lime;
     }
 @media (min-width: 992px) {
     .sections-item {
