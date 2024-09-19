@@ -1,0 +1,37 @@
+#navbar {
+    background-color: #90ffc4;
+    border: none;
+}
+
+#menu-tile {
+    padding: 20px;
+    background-color: aquamarine;
+    height: 350px;
+    overflow: scroll;
+    margin-bottom: 15px;
+
+    
+}
+#menu-tile h3 {
+    text-align: center;
+}
+
+#menu-tile p {
+    text-align: justify;
+}
+
+
+.navbar-brand {
+    color: #000;
+}
+
+#button-dropdown {    
+    border: 1px solid #000;
+
+
+}
+
+#button-dropdown.icon-bar {
+ color: #000;
+
+}
